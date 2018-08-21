@@ -70,7 +70,7 @@ final class Config {
     }
 
     /**
-     * @return array #####@Vivek
+     * @return array #####@Vivek 
      */
     private static function getData() {
         if (self::$DATA !== null) {
